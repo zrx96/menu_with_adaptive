@@ -44,8 +44,23 @@ body {
   top: 20px;
   right: 15px;
 }
+.disp{
+  display: none;
+}
 .number {
   margin-left: 5px;
+}
+.burger-slide {
+  position: absolute;
+  
+}
+.block {
+  display: block;
+}
+button {
+  border: none;
+  outline: none;
+  background-color: transparent;
 }
 .num {
   font-weight: 700;
